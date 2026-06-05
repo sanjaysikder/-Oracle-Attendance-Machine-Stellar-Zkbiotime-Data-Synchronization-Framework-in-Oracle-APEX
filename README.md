@@ -355,25 +355,11 @@ Attendance data can be consumed by:
 
 ---
 
-# Author
+## Thank you
 
-Sanjay Sikder
+**Sanjay Sikder**
 
-Oracle APEX Professional Developer
+## 📬 Contact
 
-Expertise:
-
-* Oracle Database 19c / 21c
-* Oracle APEX 22.x / 24.x
-* REST API Integrations
-* HRMS Solutions
-* Payroll Systems
-* Enterprise Attendance Management
-
----
-
-# License
-
-MIT License
-
-This project is intended for Oracle Database and Oracle APEX developers implementing enterprise attendance synchronization solutions.
+- 💼 LinkedIn: [Sanjay Sikder](https://www.linkedin.com/in/sanjay-sikder/)
+- 📧 Email: sanjaysikder71@gmail.com
