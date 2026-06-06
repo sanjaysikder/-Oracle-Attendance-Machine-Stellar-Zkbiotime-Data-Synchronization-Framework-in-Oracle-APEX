@@ -1,4 +1,4 @@
-# Oracle Attendance Machine (Stellar & zkbiotime) Data Synchronization Framework in Oracle APEX
+# Attendance Machine (Stellar & zkbiotime) Data Synchronization Framework in Oracle APEX
  
 
 This project provides an enterprise-grade Oracle PL/SQL synchronization framework for integrating attendance data from multiple biometric attendance platforms into Oracle Database.
